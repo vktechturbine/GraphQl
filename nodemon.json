@@ -1,0 +1,14 @@
+{
+    "env": {
+        "MONGO_USER": "Vishalrk",
+        "MONGO_PASSWORD": "tech1mini",
+        "MONGO_DB_NAME": "shop",
+        "FIREBASE_apiKey": "AIzaSyC2MGwxR6G55aUTkN1NyhOonFE8T8SwDpk",
+        "FIREBASE_authDomain": "gs://feeds-6678d.appspot.com/Feeds",
+        "FIREBASE_projectId": "feeds-6678d",
+        "FIREBASE_storageBucket": "feeds-6678d.appspot.com",
+        "FIREBASE_messagingSenderId": "439690112874",
+        "FIREBASE_appId": "1:439690112874:web:baf79220a22c0b0721ff13",
+        "FIREBASE_measurementId": "G-JK7TE1MWY1"
+    }
+}
